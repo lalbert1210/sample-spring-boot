@@ -17,7 +17,6 @@ public class DemoApplicationTests {
 
         @Test
       public void test_add() {
-    logger.error("TEST 2");
     assertTrue(true); 
     }
 
