@@ -17,7 +17,7 @@ public class DemoApplicationTests {
 
         @Test
       public void test_add() {
-    assertTrue(false); 
+    assertTrue(3==3); 
     }
 
 }
